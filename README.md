@@ -1,1 +1,1 @@
-# JSPAndServletsLearn
+# Repo having Eclipse projects
