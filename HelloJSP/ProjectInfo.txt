@@ -1,1 +1,0 @@
-this projects shows the JSP scripting elemnets
